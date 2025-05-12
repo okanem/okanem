@@ -10,8 +10,7 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 ## About Me 🎓 
 
 
--- please update this part with your pitch --
-I am a keen learner who asks a lot of questions. My inquisitive nature led me into project management. After delving into Computer science in college, working in sales, I studied Business management and leadership at Coventry University. I achieved a HND(distinction) in 2018, Having studied modules in Project management, I was fascinated by the diverse projects a PM leads. From that point I knew that was a perfect career path for me. I have therefore for over 5 years worked in a PMO setting. 
+I am a keen learner who asks a lot of questions. My inquisitive nature led me into project management. After delving into Computer science in college, working in sales, I studied Business management and leadership at Coventry University. I achieved a BA (2:1) in 2020, Having studied modules in Project management, I was fascinated by the diverse projects a PM leads. From that point I knew that was a perfect career path for me. I have therefore for over 5 years worked in a PMO setting. 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about Software development, web scraping, and API integration. 
@@ -69,7 +68,7 @@ I am a keen learner who asks a lot of questions. My inquisitive nature led me in
 
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [email address](mailto:training.justit@gmail.com)
+* ✉️  You can contact me at [okanem2011.ie@gmail.com](mailto:okanem2011.ie@gmail.com)
 * 🧠  I'm learning R, Pandas
 * 🤝  I'm open to collaborating on Health Economics, Healthcare projects
 
