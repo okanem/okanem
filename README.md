@@ -25,15 +25,15 @@ I am a keen learner who asks a lot of questions. My inquisitive nature led me in
 ### PowerBI
 - **Project Name**: [Project Title](https://sites.google.com/view/ime-ekanem/projects/powerbi-projects)
   - **Description**: This dataset provides a comprehensive historical record of Bank of America's (BAC) stock performance from March 1, 1978, to April 6, 2025.
-  -                  Encompassing nearly five decades of financial data, it offers detailed insights into the bank's stock dynamics, capturing significant market events,
-  -                  economic shifts, and company-specific milestones.
+                     Encompassing nearly five decades of financial data, it offers detailed insights into the bank's stock dynamics, capturing significant market events,
+                    economic shifts, and company-specific milestones.
   - **Technologies Used**: List the features and data sources used in the project.
 
 ### Tableau
 - **Project Name**: [Project Title](https://sites.google.com/view/ime-ekanem/projects/tableau-projects)
   - **Description**: This dataset provides a comprehensive historical record of Bank of America's (BAC) stock performance from March 1, 1978, to April 6, 2025.
-  -                  Encompassing nearly five decades of financial data, it offers detailed insights into the bank's stock dynamics, capturing significant market events,
-  -                  economic shifts, and company-specific milestones. .
+                    Encompassing nearly five decades of financial data, it offers detailed insights into the bank's stock dynamics, capturing significant market events,
+                     economic shifts, and company-specific milestones. .
   - **Technologies Used**: List the features and data sources used in the project.
 
 ### Access
