@@ -83,7 +83,7 @@ I am a keen learner who asks a lot of questions. My inquisitive nature led me in
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Ali06112023" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/okanem" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
@@ -94,7 +94,7 @@ I am a keen learner who asks a lot of questions. My inquisitive nature led me in
 <a href="http://www.github.com/okanem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okanem&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/okanem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=okanem&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22" alt="Top Languages" /></a>
-https://github-readme-stats.vercel.app/api/top-langs?username=okanemGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
+https://github-readme-stats.vercel.app/api/top-langs?username=okanem&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
 
 <a href="http://www.github.com/okanem"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=okanem&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
