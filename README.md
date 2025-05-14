@@ -29,12 +29,12 @@ I am a keen learner who asks a lot of questions. My inquisitive nature led me in
   - **Technologies Used**: List the libraries/packages used in the project.
 
 ### PowerBI
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Project Title]([link-to-project](https://sites.google.com/view/ime-ekanem/projects/powerbi-projects))
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
 ### Tableau
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Project Title]([link-to-project](https://sites.google.com/view/ime-ekanem/projects/tableau-projects))
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
@@ -44,22 +44,22 @@ I am a keen learner who asks a lot of questions. My inquisitive nature led me in
   - **Technologies Used**: List the features and tables used in the project.
 
 ### MySQL
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Project Title]([link-to-project](https://sites.google.com/view/ime-ekanem/projects/sql-projects))
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and databases used in the project.
 
 ### Python and Pandas
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Project Title]([link-to-project](https://sites.google.com/view/ime-ekanem/projects/python-projects))
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the libraries/packages used in the project.
 
 ### DP900
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Project Title]([link-to-project](https://sites.google.com/view/ime-ekanem/projects/microsoft-azure))
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the tools and concepts used in the project.
 
 ### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Project Title](https://sites.google.com/view/ime-ekanem/projects/excel-projectslink-to-project)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the functions and techniques used in the project.
 
@@ -69,8 +69,8 @@ I am a keen learner who asks a lot of questions. My inquisitive nature led me in
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [okanem2011.ie@gmail.com](mailto:okanem2011.ie@gmail.com)
-* 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
+* 🧠  I'm improving my skills in Django, Pandas, nodejs, SQL, docker, linux 
+* 🤝  I'm open to collaborating on Health, Economics, Healthcare projects, digital marketing, social engineering, software development, Business analysis. 
 
 ### Skills
 
