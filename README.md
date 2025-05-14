@@ -29,7 +29,7 @@ I am a keen learner who asks a lot of questions. My inquisitive nature led me in
   - **Technologies Used**: List the libraries/packages used in the project.
 
 ### PowerBI
-- **Project Name**: [Project Title]([link-to-project](https://sites.google.com/view/ime-ekanem/projects/powerbi-projects))
+- **Project Name**: [Project Title](https://sites.google.com/view/ime-ekanem/projects/powerbi-projects)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
