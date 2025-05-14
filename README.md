@@ -22,20 +22,18 @@ I am a keen learner who asks a lot of questions. My inquisitive nature led me in
 2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
 3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
 
-
-### R
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
-
 ### PowerBI
 - **Project Name**: [Project Title](https://sites.google.com/view/ime-ekanem/projects/powerbi-projects)
-  - **Description**: Brief description of what the project does and its key features.
+  - **Description**: This dataset provides a comprehensive historical record of Bank of America's (BAC) stock performance from March 1, 1978, to April 6, 2025.
+  -                  Encompassing nearly five decades of financial data, it offers detailed insights into the bank's stock dynamics, capturing significant market events,
+  -                  economic shifts, and company-specific milestones.
   - **Technologies Used**: List the features and data sources used in the project.
 
 ### Tableau
-- **Project Name**: [Project Title]([link-to-project](https://sites.google.com/view/ime-ekanem/projects/tableau-projects))
-  - **Description**: Brief description of what the project does and its key features.
+- **Project Name**: [Project Title](https://sites.google.com/view/ime-ekanem/projects/tableau-projects)
+  - **Description**: This dataset provides a comprehensive historical record of Bank of America's (BAC) stock performance from March 1, 1978, to April 6, 2025.
+  -                  Encompassing nearly five decades of financial data, it offers detailed insights into the bank's stock dynamics, capturing significant market events,
+  -                  economic shifts, and company-specific milestones. .
   - **Technologies Used**: List the features and data sources used in the project.
 
 ### Access
@@ -44,17 +42,17 @@ I am a keen learner who asks a lot of questions. My inquisitive nature led me in
   - **Technologies Used**: List the features and tables used in the project.
 
 ### MySQL
-- **Project Name**: [Project Title]([link-to-project](https://sites.google.com/view/ime-ekanem/projects/sql-projects))
+- **Project Name**: [Project Title](https://sites.google.com/view/ime-ekanem/projects/sql-projects)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and databases used in the project.
 
 ### Python and Pandas
-- **Project Name**: [Project Title]([link-to-project](https://sites.google.com/view/ime-ekanem/projects/python-projects))
+- **Project Name**: [Project Title](https://sites.google.com/view/ime-ekanem/projects/python-projects)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the libraries/packages used in the project.
 
 ### DP900
-- **Project Name**: [Project Title]([link-to-project](https://sites.google.com/view/ime-ekanem/projects/microsoft-azure))
+- **Project Name**: [Project Title](https://sites.google.com/view/ime-ekanem/projects/microsoft-azure)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the tools and concepts used in the project.
 
